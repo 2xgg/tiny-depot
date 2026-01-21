@@ -1,0 +1,44 @@
+# Compiled class files
+*.class
+bin/
+out/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.sqlite
+
+# Saved worlds
+worlds/
+saves/
+
